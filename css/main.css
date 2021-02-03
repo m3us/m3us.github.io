@@ -119,6 +119,8 @@ textarea {
 	
     a {
       font-size: 3em;
+	  white-space: nowrap;
+	  text-decoration: none;
     }
     @media only screen and (max-width: 280px) {
 
